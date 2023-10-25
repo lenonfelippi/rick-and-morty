@@ -1,8 +1,15 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Main /> should render the heading 1`] = `
+.c0 {
+  background-color: green;
+  color: #fff;
+  width: 100%;
+  height: 100%;
+}
+
 <main
-  class="sc-bdnyFh kFtGJI"
+  class="c0"
 >
   <h1>
     Testando o jest
